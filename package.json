@@ -1,7 +1,7 @@
 {
   "name": "statcan-mcp",
-  "version": "0.1.1",
-  "mcpName": "io.github.arose26/statcan-mcp",
+  "version": "0.1.2",
+  "mcpName": "io.github.koleharv/statcan-mcp",
   "description": "MCP server for Statistics Canada's Web Data Service — live Canadian statistics (CPI, GDP, labour force, housing, population) for Claude and other LLMs",
   "type": "module",
   "bin": {
@@ -32,7 +32,7 @@
   "author": "Kole Harvey",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/arose26/statcan-mcp.git"
+    "url": "git+https://github.com/koleharv/statcan-mcp.git"
   },
   "engines": {
     "node": ">=18"
