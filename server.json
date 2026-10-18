@@ -1,17 +1,17 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
-  "name": "io.github.arose26/statcan-mcp",
+  "name": "io.github.koleharv/statcan-mcp",
   "description": "Statistics Canada's 8,200+ data tables: CPI, GDP, labour force, housing. No API key.",
   "repository": {
-    "url": "https://github.com/arose26/statcan-mcp",
+    "url": "https://github.com/koleharv/statcan-mcp",
     "source": "github"
   },
-  "version": "0.1.1",
+  "version": "0.1.2",
   "packages": [
     {
       "registryType": "npm",
       "identifier": "statcan-mcp",
-      "version": "0.1.1",
+      "version": "0.1.2",
       "transport": {
         "type": "stdio"
       }

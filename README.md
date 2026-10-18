@@ -4,7 +4,7 @@ An [MCP](https://modelcontextprotocol.io) server that gives Claude and other LLM
 
 No API key required.
 
-Sibling project: [bank-of-canada-mcp](https://github.com/arose26/bank-of-canada-mcp) for Bank of Canada rates and FX.
+Sibling project: [bank-of-canada-mcp](https://github.com/koleharv/bank-of-canada-mcp) for Bank of Canada rates and FX.
 
 ## Why this exists
 
